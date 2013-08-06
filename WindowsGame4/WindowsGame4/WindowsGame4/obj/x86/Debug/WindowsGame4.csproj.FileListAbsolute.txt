@@ -1,0 +1,39 @@
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\bullet.xnb
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\riemerstexture.xnb
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\texturemap.xnb
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\target.xnb
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\xwing.xnb
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.exe
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.pdb
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.exe
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.pdb
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\effects1.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\bullet.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\riemerstexture.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\texturemap.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_back.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_bottom.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_front.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_left.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_right.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_top.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Bitmap1.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\target.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\xwing.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\effects1.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Top_0.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Right_0.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Left_0.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Front_0.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Back_0.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.exe
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.pdb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.exe
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.pdb
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_back.JPG

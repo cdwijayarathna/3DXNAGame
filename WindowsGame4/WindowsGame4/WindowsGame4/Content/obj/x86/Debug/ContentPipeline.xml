@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bullet.jpg</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-03-14T10:07:32.2421645+05:30</Time>
+    </Item>
+    <Item>
+      <Source>riemerstexture.bmp</Source>
+      <Name>riemerstexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\riemerstexture.xnb</Output>
+      <Time>2013-03-14T10:07:32.2577893+05:30</Time>
+    </Item>
+    <Item>
+      <Source>texturemap.jpg</Source>
+      <Name>texturemap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\texturemap.xnb</Output>
+      <Time>2013-03-14T10:07:32.3046637+05:30</Time>
+    </Item>
+    <Item>
+      <Source>skybox_back.JPG</Source>
+      <Name>skybox_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_back.xnb</Output>
+      <Time>2013-03-28T10:08:09.8795198+05:30</Time>
+    </Item>
+    <Item>
+      <Source>skybox_bottom.JPG</Source>
+      <Name>skybox_bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_bottom.xnb</Output>
+      <Time>2013-03-28T10:22:39.8097246+05:30</Time>
+    </Item>
+    <Item>
+      <Source>skybox_front.JPG</Source>
+      <Name>skybox_front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_front.xnb</Output>
+      <Time>2013-03-28T10:08:09.9107694+05:30</Time>
+    </Item>
+    <Item>
+      <Source>skybox_left.JPG</Source>
+      <Name>skybox_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_left.xnb</Output>
+      <Time>2013-03-28T10:08:09.9263942+05:30</Time>
+    </Item>
+    <Item>
+      <Source>skybox_right.JPG</Source>
+      <Name>skybox_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_right.xnb</Output>
+      <Time>2013-03-28T10:08:09.9263942+05:30</Time>
+    </Item>
+    <Item>
+      <Source>skybox_top.JPG</Source>
+      <Name>skybox_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox_top.xnb</Output>
+      <Time>2013-03-28T10:08:09.9263942+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Bitmap1.bmp</Source>
+      <Name>Bitmap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Bitmap1.xnb</Output>
+      <Time>2013-03-28T10:08:58.144527+05:30</Time>
+    </Item>
+    <Item>
+      <Source>target.x</Source>
+      <Name>target</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\target.xnb</Output>
+      <Time>2013-03-14T10:07:32.2890389+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\target_0.xml</Key>
+        <Value>2013-03-28T10:16:03.3595991+05:30</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>xwing.x</Source>
+      <Name>xwing</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\xwing.xnb</Output>
+      <Time>2013-03-14T10:07:32.3202885+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\xwing_0.xml</Key>
+        <Value>2013-03-28T10:16:03.8283461+05:30</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>skybox.x</Source>
+      <Name>skybox</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\skybox.xnb</Output>
+      <Time>2013-03-28T10:11:00.2054646+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\skybox_0.xml</Key>
+        <Value>2013-03-28T10:16:04.0783445+05:30</Value>
+      </Dependency>
+      <Request>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Top_0.xnb</Request>
+      <Request>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Right_0.xnb</Request>
+      <Request>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Left_0.xnb</Request>
+      <Request>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Front_0.xnb</Request>
+      <Request>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Back_0.xnb</Request>
+      <Request>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>effects1.fx</Source>
+      <Name>effects1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\effects1.xnb</Output>
+      <Time>2013-03-28T09:41:02.553202+05:30</Time>
+    </Item>
+    <Item>
+      <Source>target.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\target_0.xml</Output>
+      <Time>2013-03-14T10:07:32.2890389+05:30</Time>
+    </Item>
+    <Item>
+      <Source>xwing.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\xwing_0.xml</Output>
+      <Time>2013-03-14T10:07:32.3202885+05:30</Time>
+    </Item>
+    <Item>
+      <Source>skybox.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\skybox_0.xml</Output>
+      <Time>2013-03-28T10:11:00.2054646+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Top.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Top_0.xnb</Output>
+      <Time>2013-03-28T10:08:09.9263942+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Right.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Right_0.xnb</Output>
+      <Time>2013-03-28T10:08:09.9263942+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Left.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Left_0.xnb</Output>
+      <Time>2013-03-28T10:08:09.9263942+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Front.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Front_0.xnb</Output>
+      <Time>2013-03-28T10:08:09.9107694+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Back.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Back_0.xnb</Output>
+      <Time>2013-03-28T10:08:09.8795198+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SkyBox_Bottom.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkyBox_Bottom_0.xnb</Output>
+      <Time>2013-03-28T10:22:39.8097246+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-12-06T16:53:05.8665828+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

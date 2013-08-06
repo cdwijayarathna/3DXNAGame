@@ -1,0 +1,2 @@
+C:\Documents and Settings\100596f\My Documents\Visual Studio 2008\Projects\WindowsGame4\WindowsGame4\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\100596f\Desktop\WindowsGame4\WindowsGame4\WindowsGame4\Content\obj\x86\Debug\ResolveAssemblyReference.cache
